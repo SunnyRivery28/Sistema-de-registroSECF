@@ -6,6 +6,9 @@
 
 ```npm install react```
 
+## Atajo hacker 
+```Click parte superior GitHub + '.'```
+
 <h2>¿Que es el archivo README?</h2> 
   
 El Readme es un archivo que contiene las informaciones necesarias para entender el objetivo y el estado de tu proyecto.
