@@ -2,6 +2,8 @@
 
 * Estado del proyecto: En construcción.
 
+## Para ejecutar el sistema, debes poner: ‘’’npm install react’’’.
+
   <h2>¿Que es el archivo README?</h2> 
   
   El Readme es un archivo que contiene las informaciones necesarias para entender el objetivo y el estado de tu proyecto.
