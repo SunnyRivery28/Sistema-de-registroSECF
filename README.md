@@ -38,8 +38,8 @@ El Readme es un archivo que contiene las informaciones necesarias para entender 
 <h3>Formas de realizar los commit:</h3>
 
 * Desde GitHub.
-* Desde la version en línea de Visual studio Code
-* 
+* Desde la version en línea de Visual studio Code.
+* Desde Git , haciendo un GitPush y un GitPull.
 
 > No existe una regla específica para el mensaje de los commits, 
 > pero en la comunidad internacional, especialmente en los países de habla inglesa,
