@@ -27,10 +27,34 @@ El Readme es un archivo que contiene las informaciones necesarias para entender 
 * Personas Desarrolladoras del Proyecto;
 * Licencia
 
-
-> En el Readme, puedes dar una descripción,  acerca de qué trata tu proyecto,
-> cuál el estado actual de él,  las tecnologías utilizadas, el equipo 
-> que trabaja en el desarrollo, como contribuir (se es un proyecto open source),
-> como usar, etc. Existe una gran posibilidad de cosas que puedes poner
+>  En el Readme, puedes dar una descripción,  acerca de qué trata tu proyecto,
+>  cuál el estado actual de él,  las tecnologías utilizadas, el equipo 
+>  que trabaja en el desarrollo, como contribuir (se es un proyecto open source),
+>  como usar, etc. Existe una gran posibilidad de cosas que puedes poner
 >  en tu readme con el objetivo de informar y ser lo más atractivo y 
-> organizado posible  para quien esté visualizando tu proyecto.
+>  organizado posible  para quien esté visualizando tu proyecto.
+
+
+<h3>Formas de realizar los commit:</h3>
+
+* Desde GitHub.
+* Desde la version en línea de Visual studio Code
+* 
+
+> No existe una regla específica para el mensaje de los commits, 
+> pero en la comunidad internacional, especialmente en los países de habla inglesa,
+> se recomienda usar el imperativo al comienzo de los commits
+
+> Ejemplos:
+
+```Add```
+
+```Fix```
+
+```Change```
+
+```Remove```
+
+
+ 
+
