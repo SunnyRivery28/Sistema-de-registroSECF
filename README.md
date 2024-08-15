@@ -6,7 +6,7 @@
 
 ```npm install react```
 
-## Atajo hacker 
+## Atajo hacker para abrir Vs Code
 ```Click parte superior GitHub + '.'```
 
 <h2>¿Que es el archivo README?</h2> 
